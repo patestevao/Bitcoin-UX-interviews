@@ -59,4 +59,4 @@ Não. Ao contrário do que poderia parecer, não há um tipo de resposta mais ce
 
 O questionário está disponível aqui como Google form: https://forms.gle/AyBYjKkX5tG36ksdA
 
-Alternativamente, você poderá usar a forma .txt do questionário (https://github.com/patestevao/Bitcoin-UX-interviews/blob/main/questionario-de-trigem.txt) para o envio das informações.
+Alternativamente, você poderá usar a forma .txt do questionário (https://github.com/patestevao/Bitcoin-UX-interviews/blob/main/questionario-de-trigem.txt) e enviar as informações para btcuxresearch@gmail.com, seguindo as instruções do documento.

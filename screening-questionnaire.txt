@@ -1,0 +1,98 @@
+Screening questionnaire for the Bitcoin UX research interviews
+
+Instructions:
+1. Make a copy of this file.
+2. Delete everything above the "--**-- Questions --**--" title.
+3. Answer open ended questions by replacing the "_" symbol on the following line with your answer.
+4. Answer multiple-choice questions by deleting all unused options and leaving only your choice. 
+5. Assume that multiple-choice questions allow only one option to be selected. If a question allows for more than one choice, it will explicitly say so.
+6. Most questions are optional. The mandatory ones are marked with a *.
+7. To give consent on the data collection (necessary for the submission to be considered), we ask you to review the section with the title "--**-- Information usage and consent for the screening questionnaire --**--" and replace the marking "[ ]" for "[X]", right before the phrase starting with "I give my consent..."
+8. Send your copy of the file with your answers to btcuxresearch@gmail.com with the subject "screening-questionnaire.txt".
+
+
+--**-- Questions --**--
+
+1. How can we contact you if you are selected: Email, telegram, Twitter? Please signal which you are sharing. *
+_
+
+2. Are you over 18 years old AND above the legal age of majority in your country of residency? *
+- Yes
+- No
+
+3. Which country do you live in? Or, if not the same, which country did you live in when you most used Bitcoin? *
+_
+
+4. How would you describe your professional profile?
+- STEM (science, technology, engineering, and mathematics)
+- Law and Human studies
+- Medicine and Biology studies
+- Business
+- Craft
+- Other (please, specify).
+
+5. Have you ever used Bitcoin?
+- Yes
+- No
+
+6. When did you start using Bitcoin?
+- 2020 or later
+- Between 2017 and 2019
+- Before 2017
+
+7. With which frequency do you use Bitcoin? (Buying, sending, or receiving)
+- Multiple times a week.
+- Multiple times a month.
+- Once a month.
+- Once every few months.
+- Even less than the above options.
+
+8. Which better describes the way you use Bitcoin?
+- Bitcoin is my work (investor, miner, work in a Bitcoin company, etc).
+- I use Bitcoin to send or receive money internationally.
+- I use it because I like to try new technologies.
+- I protect myself from my country's economic situation.
+- I have problems being accepted in the traditional banking system.
+- I use it for political reasons.
+- Other (please, specify).
+
+9. Are you able to be interviewed in English?
+- Yes
+- No (please, specify the language(s) you are comfortable with)
+
+10. Are you okay with talking through one of the following services: Google meet, Zoom, Zencastr, Skype?
+If not, provide a suggestion of a preferred service.
+- Yes
+- No (plase add a suggestion)
+
+11. In which setup do you expect to have the interview? Select all that apply.
+. Mobile connection (3g, 4g).
+. Public wi-fi connection.
+. Private wi-fi connection.
+. Mobile device (smartphone, tablet)
+. Desktop device (laptop or desktop computer).
+
+
+--**-- Information usage and consent for the screening questionnaire --**--
+
+Here we explain the neeed and ask for consent on the data collecting and usage of the Bitcoin UX research screening questionnaire (questions above).
+
+Purpose of the information collection
+The purpose of this study is to understand why people use Bitcoin and design better products based on this knowledge. Your participation will help achieve this by answering relevant profile questions and is completely voluntary.
+
+Information we want to collect
+* Basic demographic data, such as country of residence, professional domain.
+* A personal contact for communication with the researcher.
+* Basic questions surrounding Bitcoin usage.
+* Questions surrounding your personal infra-structure and preferences for the interview.
+
+How the information will be used
+* Analisys of the participant profile by the researcher (internal usage).
+* Condensed results about the demographic data and Bitcoin usage data may be published in public reports, but your identity and contact information will not be linked to you answers.
+* Any contact information will be treated as confidential and will not be shared outside the research team.
+
+[ ] I give my consent for the collection and usage of my personal information according to the terms set here above.
+
+If you want to withdraw your consent in the future, contact the person named below who will destroy any personal data we hold about you. Otherwise, we will delete your personal data after one year.
+
+Patrícia Estevão btcuxresearch@gmail.com

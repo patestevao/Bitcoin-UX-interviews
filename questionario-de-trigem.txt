@@ -1,0 +1,99 @@
+Questionário de triagem para as entrevistas da investigação de Bitcoin UX
+
+Instruções:
+1. Faça uma cópia deste ficheiro.
+2. Apague tudo acima do título "--**-- Perguntas --**--".
+3. Responda às perguntas abertas substituindo o símbolo "_" que está na linha seguinte pela sua resposta.
+4. Responda às perguntas de múltipla-escolha apagando todas as opções não utilizadas e deixando apenas a opção que escolheu.
+5. Assuma que as perguntas de múltipla-escolha só permitem uma resposta. Se uma pergunta permitir selecionar mais de uma opção, ela deixará isto explícito.
+6. A maior parte das perguntas é opcional. As mandatórias estão indicadas por *.
+7. Para dar o consentimento do uso de informações pessoais (necessário para a submissão ser considerada), pedimos que leia a secção final chamada "--**-- Uso de informação e consentimento para o formulário de triagem --**--" e substitua a marcação "[ ]" por "[X]", logo antes da frase que começa com "Eu dou meu consentimento...".
+8. Envie uma cópia do arquivo com as suas respostas para btcuxresearch@gmail.com com o assunto "questionario-de-triagem.txt".
+
+
+--**-- Perguntas --**--
+
+1. Como podemos entrar em contacto consigo caso seja selecionado: Email, Telegram, Twitter? Por favor indique qual serviço escolheu. *
+_
+
+2. Você é maior de 18 anos e maior de idade legalmente no país em que reside? *
+- Sim
+- Não
+
+3. Em qual país você reside? Ou, caso seja diferente, em qual país você utilizou Bitcoin com mais frequência? *
+_
+
+4. Como você descreveria a sua área de actuação profissional?
+- Ciências exatas (matemática, engenharias, TI, etc)
+- Direito e estudos humanos
+- Medicina e estudos biológicos
+- Negócios e administração
+- Trabalhos manuais
+- Arte e design
+- Outro (por favor, especifique)
+
+5. Você já usou Bitcoin?
+- Sim
+- Não
+
+6. Quando você começou a usar Bitcoin?
+- 2020 ou depois.
+- Entre 2017 e 2019.
+- Antes de 2017.
+
+7. Com qual frequência você usa Bitcoin?
+- Várias vezes por semana.
+- Várias vezes por mês.
+- Uma vez por mês.
+- Uma vez a cada alguns meses.
+- Menos do que as opções acima.
+
+8. Qual das opções melhor descreve a forma que você usa Bitcoin?
+- Eu trabalho com Bitcoin (investidor, minerador, trabalho em uma empresa de Bitcoin, etc).
+- Eu envio e/ou recebo dinheiro internacionalmente.
+- Eu gosto de testar novas tecnologias.
+- Eu me protejo da sitação econômica do meu país.
+- Eu tenho dificuldades de ser aceito no sistema bancário tradicional.
+- Eu uso por razões políticas.
+- Outro, por favor especifique.
+
+9. Você pode ser entrevistado em Português?
+- Sim.
+- Não (por favor especifique o(s) idioma(s) com o(s) qual(is) se sente confortável).
+
+10. Você aceita usar um destes serviços de chamada durante a entrevista: Google meet, Zoom, Zencastr, Skype?
+Se não, por favor sugira um serviço que você usaria.
+- Sim
+- Não (por favor adicione a sugestão).
+
+11. Em qual equipamento e rede você imagina que realizará a entrevista? Selecione todos os que se aplicam.
+. Internet móvel (3g, 4g).
+. Internet wi-fi pública.
+. Internet wi-fi privada.
+. Equipamento móvel (smartphone ou tablet).
+. Equipamento de mesa (computador laptop ou desktop).
+
+
+--**-- Uso de informação e consentimento para o formulário de triagem --**--
+
+Aqui explicamos porque é necessário e pedimos pelo consentimento da coleta e uso dos dados obtidos através do questionário de triagem (perguntas acima), parte da investigação de UX no Bitcoin.
+
+Para que fim coletaremos as informações 
+O propósito deste estudo é compreender porque as pessoas usam Bitcoin, com a intenção de desenhar melhores soluções tendo isto em mente. A sua participação é completamente voluntária e nos ajudará a alcanças isto ao responder perguntas sobre o seu perfil que sejam relevantes.
+
+A informação que queremos coletar
+* Informações básicas de demografia, como o país de residência e a área de atuação profissional.
+* Informação de contacto para que a investigadora possa entrar em contacto sobre o estudo.
+* Informações básicas sobre a forma que a pessoa usa Bitcoin.
+* Informações sobre a infra-estrutura disponível e preferências para a condução da entrevista.
+
+Como a informação será utilizada
+* O perfil do participante será analisado pela investigadora (uso interno).
+* Uma versão condensada das informações demográficas e sobre a forma que é utilizado o Bitcoin podem vir a ser publicadas em relatórios públicos. No entanto, a sua informação de contacto ou identidade não será relacionada às respostas.
+* Toda informação de contacto será tratada como confidencial e não será partilhada externamente ao grupo responsável pela pesquisa.
+
+[ ] Eu dou meu consentimento para a coleta e utilização das minhas informações de acordo com os termos acima descritos.
+
+Se você quiser revogar o seu consentimento no futuro, poderá entrar em contacto com a pessoa responsável indicada abaixo e nós destruiremos qualquer informação pessoal sua que tenhamos. Caso contrário, nós destruiremos a sua informação pessoal depois de 1 ano.
+
+Patrícia Estevão btcuxresearch@gmail.com

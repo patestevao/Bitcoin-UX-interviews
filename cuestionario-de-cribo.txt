@@ -1,0 +1,98 @@
+Cuestionario de cribo para las entrevistas de la investigación de Bitcoin UX
+
+Instrucciones:
+1. Haga una uma cópia de este archivo.
+2. Borra todo arriba del título "--**-- Preguntas --**--".
+3. Responde a las preguntas abiertas sustituindo el símbolo "_" que está en la línea siguiente por su respuesta.
+4. Responde a las preguntas de opción múltiple borrando todas las opciones no usadas y dejando solo la opción elegida.
+5. Asume que las preguntas de opción múltiple solo permiten una respuesta. Si una pregunta permitir más opciones, ella lo dejará explícito.
+6. La mayorías de las preguntas es opcional. Las obligatorias estarán marcadas por *.
+7. Para dal el consentimiento sobre la collección de datos (necesaria para la consideración de la sumisión), pedimos que leya la sección llamada "--**-- Uso de datos y consentimiento para el cuestionario de cribo --**--" y sustitua la marcación "[ ]" por "[X]", antes de la frase empezada en "Yo doy consentimiento...".
+8. Envia una cópia del archivo con sus respuestas para btcuxresearch@gmail.com con el asunto "cuestionario-de-cribo.txt".
+
+
+--**-- Preguntas --**--
+
+La mayorías de las preguntas es opcional. Las obligatorias estarán marcadas por *.
+
+1. Cómo podemos entrar en contacto con usted: E-mail, Telegram, Twitter? Por favor, indica cual servicio elegió. *
+_
+
+2. Usted es mayor de 18 años y legalmente mayor de edad en el país que reside? *
+- Sí
+- No
+
+3. En cuál país vive? O, caso sea distinto, en qué país vivía cuando usted usó Bitcoin con más frecuencia? *
+_
+
+4. Cómo usted describiría su area de actuación profesional?
+- Las ciencias exactas (matemáticas, ingeniarías, TI, etc).
+- El derecho o las ciencias sociales.
+- La medicina o las ciencias naturales.
+- Los negócios o la administración.
+- Los trabajos manuales.
+- Otro (por favor, especificar).
+
+5. Usted ya usó el Bitcoin?
+- Sí
+- No
+
+6. Cuándo usted empezó a usar el Bitcoin?
+- 2020 o después.
+- Entre 2017 y 2019.
+- Antes de 2017.
+
+7. Con qué frecuencia usted usa el Bitcoin?
+- Muchas veces por semana.
+- Muchas veces por mes.
+- Una vez por mes.
+- Una vez a cada algunos meses.
+- Menos que las opciones arriba.
+
+8. Cuál de las opciones mejor describe la manera que usted usa el Bitcoin?
+- Bitcoin es mi trabajo (inversor, minero, trabajo en una empresa de Bitcoin, etc).
+- Yo recibo y envío transacciones internacionales.
+- A mí me gusta experimentar con las nuevas tecnologías.
+- Yo me protejo de la situación económica de mi país.
+- Yo tengo dificultades con el sistema bancário tradicional.
+- Yo lo uso por razones políticas.
+- Otro (por favor especificar).
+
+9. Usted puede hacer la entrevista en Español?
+- Sí
+- No (por favor diga el(los) idioma(s) con que estará confortable en hablar).
+
+10. Usted acepta utilizar uno de esos servicios de llamada para la entrevista: Google meet, Zoom, Zencastr, Skype?
+Si no, por favor sugiere algún otro servicio.
+- Sí
+- No (por favor, añade la sugerencia)
+
+11. Con cuál equipo usted imagina hacer la entrevista? Seleccione todos los aplicables.
+. Internet móvil (3g, 4g).
+. Internet wi-fi pública.
+. Internet wi-fi privada.
+. Dispositivo móvil (smartphone, tablet).
+. Dispositivo de mesa (ordenador laptop o desktop).
+
+
+--**-- Uso de datos y consentimiento para el cuestionario de cribo --**--
+
+Aquí explicamos la razón y pedimos el consentimiento para la colecta y uso de datos obtenidos en el cuestionario de cribo (preguntas arriba), una parte de la investigación de UX en el Bitcoin.
+
+Por que razón colectamos los datos 
+El propósito del estudo es compreender porque las personas usan el Bitcoin, con la intención de crear mejores soluciones usando este conocimiento. Su participación es completamente voluntária y nos ayudará a lograr eso al responder las preguntas relevantes sobre su perfil.
+
+La información que queremos colectar
+* Información básica de demografía, como el país de residência y la área de actuación profesional.
+* Información básica de contacto para la investigadora entrar en contacto sobre el estudo. 
+* Información básica sobra la manera que el Bitcoin es usado.
+* Información sobre la infraestructura disponible y preferencias para la realización de la entrevista.
+
+Como la información será usada
+* El perfi del participante será analisado por la investigadora (uso interno).
+* Una versión condensada de los datos demográficos y de la manera con que el Bitcoin es usado puede ser publicada en reportes públicos. Sin embargo, su información de contacto o identidad no será conectada a las respuestas.
+* Toda información de contacto será tratada como confidencial y no será compartida afuera del grupo responsable por la investigación.
+
+[ ] Yo doy consentimiento para la colecta y uso de mis datos conforme las condiciones descritas arriba.
+
+Si quiere revocar su consentimiento en el futuro, puede entrar en contacto con la persona responsable indicada abajo y nosotros destruiremos cualquier información personal suya que tengamos. Caso contrário, nosotros destruiremos sus informaciones después de 1 ano.

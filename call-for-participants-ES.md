@@ -56,4 +56,4 @@ No. Al contrario de lo que uno puede pensar, no hay un tipo de respuesta más co
 
 Usted puede aceder al cuestionario de cribo aquí en Google forms: https://forms.gle/6PHCfFgXK8Mn5yHq9
 
-Alternativamente, puede usar la versión .txt y enviarla al e-mail btcuxresearch@gmail.com conforme las instrucciones del documento.
+Alternativamente, puede usar la versión .txt (https://github.com/patestevao/Bitcoin-UX-interviews/blob/main/cuestionario-de-cribo.txt) y enviarla al e-mail btcuxresearch@gmail.com conforme las instrucciones del documento.

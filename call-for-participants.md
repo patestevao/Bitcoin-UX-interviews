@@ -60,4 +60,4 @@ No. Despite what it could seem, there isn't an answer or a profile that will mak
 
 You can access the screening questionnaire as a Google form here: https://forms.gle/Lfwm3rbR4yZWMLnSA
 
-Alternatively, you can use the .txt form of the questionnaire and send it to btcuxresearch@gmail.com according to the instructions in the document.
+Alternatively, you can use the .txt form of the questionnaire (https://github.com/patestevao/Bitcoin-UX-interviews/blob/main/screening-questionnaire.txt) and send it to btcuxresearch@gmail.com according to the instructions in the document.

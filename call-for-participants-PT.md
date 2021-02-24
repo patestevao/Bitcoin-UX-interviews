@@ -44,7 +44,6 @@ Se você se encaixou em todos os requisitos acima, está convidado a se voluntar
 
 Nenhuma pergunta é mandatória durante a entrevista, você pode decidir se quer ou não partilhar uma determinada informação. Dito isto, é claro que nós estamos buscando pessoas que estejam dispostas a partilhar a verdade e sabemos também que há pessoas que podem se sentir constrangidas ao se depararem com uma pergunta inconveniente depois de terem concordado com a entrevista. Portanto, há algumas coisas que queremos já deixar claro que não vamos perguntar em nenhum momento. Exemplos destas perguntas que não faremos são:
 - Quantos Bitcoins você tem.
-- Qual carteira específica você usa.
 - Qual a sua morada de casa, ou detalhes específicos sobre a sua vizinhança. 
 - Nome de pessoas com as quais você se relaciona.
 - Quem é seu empregador.

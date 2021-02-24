@@ -45,7 +45,6 @@ If you've checked yes for all, you're welcome to volunteer and take the screenin
 
 No question is mandatory throughout the interview, you can decide whether you are comfortable or not sharing an information, or how much of it you'd like to share. That said, of course we are looking for some legitimate sharing and people might feel embarassed to say no once they agreed with the interview, so here are a few things you can rest assured we'll not ask:
 - How many Bitcoins you own.
-- Which specific wallet you use.
 - Your home address or specific details about you neighboorhod.
 - Names of people you have relationships with.
 - Your employer.

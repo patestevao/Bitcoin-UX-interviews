@@ -42,7 +42,6 @@ Si le parecen bien todas las condiciones, puede ofrecerse de voluntario y respon
 *"Yo quiero ayudar pero tengo miedo de ser preguntado cosas que no quiero compartir. Qué puedo hacer?"*
 Ninguna pregunta será obligatoria en la entrevista, está libre para elegir lo que quieres responder. Una vez dicho esto, por supuesto que buscamos personas dispuestas a compartir la verdad y sabemos que uno puede sentirse avergonzado de decir no a una cuestión después de haber dicho sí a la entrevista. Por consiguiente, hay algunas cosas que ya queremos definir como límite y que no preguntaremos a nadie. Ejemplos de preguntas que no haremos:
 - Cuántos Bitcoins tiene.
-- Qué software de cartera Bitcoin usa.
 - Cuál es la dirección de su casa o detalles de su vecindad.
 - El nombre de personas que tiene relaciones personales (familia, amigos).
 - El nombre de su empleador/empresa.
